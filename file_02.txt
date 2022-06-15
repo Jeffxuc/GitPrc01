@@ -1,1 +1,2 @@
 The file 02
+ Base content 02
